@@ -1,0 +1,1027 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190908012000 -0300" stop="20190908030000 -0300" channel="Band HD">
+    <title lang="pt">Cine Privé: Adeus Emmanuelle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908030000 -0300" stop="20190908044500 -0300" channel="Band HD">
+    <title lang="pt">Cinema Na Madrugada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908044500 -0300" stop="20190908050000 -0300" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908050000 -0300" stop="20190908060000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908060000 -0300" stop="20190908070000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908070000 -0300" stop="20190908080000 -0300" channel="Band HD">
+    <title lang="pt">Milagre Inesperado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908080000 -0300" stop="20190908083000 -0300" channel="Band HD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908083000 -0300" stop="20190908090000 -0300" channel="Band HD">
+    <title lang="pt">AgroBand</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908090000 -0300" stop="20190908093000 -0300" channel="Band HD">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908093000 -0300" stop="20190908100000 -0300" channel="Band HD">
+    <title lang="pt">Federação Israelita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908100000 -0300" stop="20190908102500 -0300" channel="Band HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908102500 -0300" stop="20190908105500 -0300" channel="Band HD">
+    <title lang="pt">Pé na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908105500 -0300" stop="20190908130000 -0300" channel="Band HD">
+    <title lang="pt">Campeonato Brasileiro Sub-20: São Paulo x Internacional</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908130000 -0300" stop="20190908140000 -0300" channel="Band HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908140000 -0300" stop="20190908160000 -0300" channel="Band HD">
+    <title lang="pt">Campeonato Brasileiro Feminino A1/A2: Flamengo x Corinthians</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908160000 -0300" stop="20190908163000 -0300" channel="Band HD">
+    <title lang="pt">Documentários BBC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908163000 -0300" stop="20190908180000 -0300" channel="Band HD">
+    <title lang="pt">Cine Band: O Anjo Cachorro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908180000 -0300" stop="20190908200000 -0300" channel="Band HD">
+    <title lang="pt">3º Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908200000 -0300" stop="20190908220000 -0300" channel="Band HD">
+    <title lang="pt">Cine Band Clássicos: Loucuras de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908220000 -0300" stop="20190908235000 -0300" channel="Band HD">
+    <title lang="pt">+Pesadelo Na Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190908235000 -0300" stop="20190909005000 -0300" channel="Band HD">
+    <title lang="pt">Canal Livre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909005000 -0300" stop="20190909015000 -0300" channel="Band HD">
+    <title lang="pt">Deles e Delas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909015000 -0300" stop="20190909023500 -0300" channel="Band HD">
+    <title lang="pt">Show Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909023500 -0300" stop="20190909041500 -0300" channel="Band HD">
+    <title lang="pt">Cinema Na Madrugada: Vingança Entre Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909041500 -0300" stop="20190909050000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909050000 -0300" stop="20190909070000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909070000 -0300" stop="20190909073000 -0300" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909073000 -0300" stop="20190909090000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909090000 -0300" stop="20190909105500 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909105500 -0300" stop="20190909110000 -0300" channel="Band HD">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909110000 -0300" stop="20190909123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909123000 -0300" stop="20190909140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909140000 -0300" stop="20190909150000 -0300" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909150000 -0300" stop="20190909160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909160000 -0300" stop="20190909185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909185000 -0300" stop="20190909192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909192000 -0300" stop="20190909202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909202000 -0300" stop="20190909210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909210500 -0300" stop="20190909215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909215700 -0300" stop="20190909220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909220000 -0300" stop="20190909224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909224500 -0300" stop="20190909234500 -0300" channel="Band HD">
+    <title lang="pt">Uma Escolinha Muito Louca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190909234500 -0300" stop="20190910003000 -0300" channel="Band HD">
+    <title lang="pt">É Tudo Improviso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910003000 -0300" stop="20190910011500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910011500 -0300" stop="20190910012000 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910012000 -0300" stop="20190910021500 -0300" channel="Band HD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910021500 -0300" stop="20190910033000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910033000 -0300" stop="20190910042000 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910042000 -0300" stop="20190910050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910050000 -0300" stop="20190910070000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910070000 -0300" stop="20190910073000 -0300" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910073000 -0300" stop="20190910090000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910090000 -0300" stop="20190910105500 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910105500 -0300" stop="20190910110000 -0300" channel="Band HD">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910110000 -0300" stop="20190910123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910123000 -0300" stop="20190910140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910140000 -0300" stop="20190910150000 -0300" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910150000 -0300" stop="20190910160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910160000 -0300" stop="20190910185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910185000 -0300" stop="20190910192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910192000 -0300" stop="20190910202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910202000 -0300" stop="20190910210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910210500 -0300" stop="20190910215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910215700 -0300" stop="20190910220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910220000 -0300" stop="20190910224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190910224500 -0300" stop="20190911001500 -0300" channel="Band HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911001500 -0300" stop="20190911010000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911010000 -0300" stop="20190911010500 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911010500 -0300" stop="20190911015000 -0300" channel="Band HD">
+    <title lang="pt">Senhor dos Céus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911015000 -0300" stop="20190911033000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911033000 -0300" stop="20190911042000 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911042000 -0300" stop="20190911050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911050000 -0300" stop="20190911070000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911070000 -0300" stop="20190911073000 -0300" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911073000 -0300" stop="20190911090000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911090000 -0300" stop="20190911105500 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911105500 -0300" stop="20190911110000 -0300" channel="Band HD">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911110000 -0300" stop="20190911123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911123000 -0300" stop="20190911140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911140000 -0300" stop="20190911150000 -0300" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911150000 -0300" stop="20190911160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911160000 -0300" stop="20190911185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911185000 -0300" stop="20190911192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911192000 -0300" stop="20190911202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911202000 -0300" stop="20190911210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911210500 -0300" stop="20190911215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911215700 -0300" stop="20190911220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911220000 -0300" stop="20190911224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190911224500 -0300" stop="20190912003000 -0300" channel="Band HD">
+    <title lang="pt">Cine Clube: Reaprendendo A Amar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912003000 -0300" stop="20190912011500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912011500 -0300" stop="20190912012000 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912012000 -0300" stop="20190912015500 -0300" channel="Band HD">
+    <title lang="pt">Senhor dos Céus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912015500 -0300" stop="20190912033000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912033000 -0300" stop="20190912042000 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912042000 -0300" stop="20190912050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912050000 -0300" stop="20190912070000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912070000 -0300" stop="20190912073000 -0300" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912073000 -0300" stop="20190912090000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912090000 -0300" stop="20190912105500 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912105500 -0300" stop="20190912110000 -0300" channel="Band HD">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912110000 -0300" stop="20190912123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912123000 -0300" stop="20190912140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912140000 -0300" stop="20190912150000 -0300" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912150000 -0300" stop="20190912160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912160000 -0300" stop="20190912185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912185000 -0300" stop="20190912192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912192000 -0300" stop="20190912202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912202000 -0300" stop="20190912210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912210500 -0300" stop="20190912215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912215700 -0300" stop="20190912220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912220000 -0300" stop="20190912224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190912224500 -0300" stop="20190913003000 -0300" channel="Band HD">
+    <title lang="pt">Top Cine: Jogo Sujo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913003000 -0300" stop="20190913011500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913011500 -0300" stop="20190913012000 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913012000 -0300" stop="20190913021000 -0300" channel="Band HD">
+    <title lang="pt">Senhor dos Céus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913021000 -0300" stop="20190913033000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913033000 -0300" stop="20190913042000 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913042000 -0300" stop="20190913050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913050000 -0300" stop="20190913070000 -0300" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913070000 -0300" stop="20190913073000 -0300" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913073000 -0300" stop="20190913090000 -0300" channel="Band HD">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913090000 -0300" stop="20190913105500 -0300" channel="Band HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913105500 -0300" stop="20190913110000 -0300" channel="Band HD">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913110000 -0300" stop="20190913123000 -0300" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913123000 -0300" stop="20190913140000 -0300" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913140000 -0300" stop="20190913150000 -0300" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913150000 -0300" stop="20190913160000 -0300" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913160000 -0300" stop="20190913185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913185000 -0300" stop="20190913192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913192000 -0300" stop="20190913202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913202000 -0300" stop="20190913210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913210500 -0300" stop="20190913215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913215700 -0300" stop="20190913220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913220000 -0300" stop="20190913224500 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190913224500 -0300" stop="20190914003000 -0300" channel="Band HD">
+    <title lang="pt">Música Na Band: Origens</title>
+    <sub-title lang="pt">Paula Fernandes</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914003000 -0300" stop="20190914011500 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914011500 -0300" stop="20190914012000 -0300" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914012000 -0300" stop="20190914020500 -0300" channel="Band HD">
+    <title lang="pt">Senhor dos Céus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914020500 -0300" stop="20190914033000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914033000 -0300" stop="20190914042000 -0300" channel="Band HD">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914042000 -0300" stop="20190914050000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914050000 -0300" stop="20190914060000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914060000 -0300" stop="20190914070000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914070000 -0300" stop="20190914073000 -0300" channel="Band HD">
+    <title lang="pt">Mundo Real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914073000 -0300" stop="20190914080000 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914080000 -0300" stop="20190914083000 -0300" channel="Band HD">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914083000 -0300" stop="20190914090000 -0300" channel="Band HD">
+    <title lang="pt">Louvor e Mensagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914090000 -0300" stop="20190914093000 -0300" channel="Band HD">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914093000 -0300" stop="20190914094500 -0300" channel="Band HD">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914094500 -0300" stop="20190914100000 -0300" channel="Band HD">
+    <title lang="pt">Se Liga Na Gente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914100000 -0300" stop="20190914110000 -0300" channel="Band HD">
+    <title lang="pt">Projeto Vida Nova na TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914110000 -0300" stop="20190914113000 -0300" channel="Band HD">
+    <title lang="pt">Rompendo em Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914113000 -0300" stop="20190914120000 -0300" channel="Band HD">
+    <title lang="pt">Sem Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914120000 -0300" stop="20190914123000 -0300" channel="Band HD">
+    <title lang="pt">Agro Forte Brasil Forte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914123000 -0300" stop="20190914124500 -0300" channel="Band HD">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914124500 -0300" stop="20190914130000 -0300" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914130000 -0300" stop="20190914145000 -0300" channel="Band HD">
+    <title lang="pt">Sessão Livre: A Sombra de Summer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914145000 -0300" stop="20190914170000 -0300" channel="Band HD">
+    <title lang="pt">A Informar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914170000 -0300" stop="20190914185000 -0300" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914185000 -0300" stop="20190914192000 -0300" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914192000 -0300" stop="20190914202000 -0300" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914202000 -0300" stop="20190914210500 -0300" channel="Band HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914210500 -0300" stop="20190914215700 -0300" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914215700 -0300" stop="20190914220000 -0300" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914220000 -0300" stop="20190914224500 -0300" channel="Band HD">
+    <title lang="pt">Criativos.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914224500 -0300" stop="20190914233000 -0300" channel="Band HD">
+    <title lang="pt">Operação Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190914233000 -0300" stop="20190915013000 -0300" channel="Band HD">
+    <title lang="pt">Cine + Mergulho Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
